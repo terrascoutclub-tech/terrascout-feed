@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2575.4">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span></p>
+<p class="p1"><span class="s1">&lt;!DOCTYPE yml_catalog SYSTEM "shops.dtd"&gt;</span></p>
+<p class="p1"><span class="s1">&lt;yml_catalog date="2026-03-01 12:00"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;shop&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;name&gt;Terra Scout Club&lt;/name&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;company&gt;Terra Scout Club&lt;/company&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;url&gt;https://terrascout.ru&lt;/url&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;categories&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;category id="1"&gt;Инвестиционная недвижимость&lt;/category&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/categories&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;sets&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;set id="marine-garden-set"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;name&gt;Marine Garden 4*&lt;/name&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;url&gt;https://terrascout.ru/marine-garden&lt;/url&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;/set&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/sets&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;offers&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;offer id="marine-garden-collection" available="true"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;name&gt;Инвестиционный проект Marine Garden 4*&lt;/name&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;url&gt;https://terrascout.ru/marine-garden&lt;/url&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;categoryId&gt;1&lt;/categoryId&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;set-ids&gt;marine-garden-set&lt;/set-ids&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;price&gt;500000&lt;/price&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;currencyId&gt;RUB&lt;/currencyId&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;picture&gt;https://terrascout.ru/images/marine-garden.jpg&lt;/picture&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;description&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>Инвестиционный апарт-отель Marine Garden 4* в Сочи.</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>Проект для коллективных и индивидуальных инвестиций с потенциалом роста стоимости и доходом от аренды.</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/description&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;param name="Тип недвижимости"&gt;Апарт-отель&lt;/param&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;param name="Класс"&gt;4*&lt;/param&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;param name="Город"&gt;Сочи&lt;/param&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;param name="Страна"&gt;Россия&lt;/param&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;param name="Тип сделки"&gt;Инвестиции&lt;/param&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;param name="Формат"&gt;Подборка объектов&lt;/param&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;param name="Минимальный вход"&gt;500 000 ₽&lt;/param&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;param name="Стратегия"&gt;Аренда и перепродажа&lt;/param&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;param name="Доходность"&gt;от 25% годовых&lt;/param&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;param name="Количество объектов"&gt;20&lt;/param&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;/offer&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/offers&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/shop&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/yml_catalog&gt;</span></p>
+</body>
+</html>
